@@ -1,4 +1,4 @@
-```markdown
+
 # AI Assistant by anos
 
 Advanced AI-powered chat assistant for SA-MP Android with Groq API integration and real-time response system.
